@@ -1,0 +1,12 @@
+.navList {
+    display: inline;
+    color: aliceblue;
+    margin-top: 1%;
+    width: 60%
+}
+
+li {
+    list-style: none;
+    display: inline;
+    padding: 1%;
+}
