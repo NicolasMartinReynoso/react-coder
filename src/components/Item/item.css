@@ -1,7 +1,9 @@
 .item {
+    color: aliceblue;
     border: solid;
+    border-color: black;
     text-align: center;
-    background-color: rgb(129, 127, 127);
+    background: linear-gradient(90deg, rgba(46, 149, 222, 0.685) 0%, rgba(63,9,121,1) 51%, rgba(215, 112, 236, 0.658) 100%);
 
     margin: 1%;
     width: 30%;
